@@ -1,3 +1,9 @@
 [submodule "redditTutorial"]
 	path = redditTutorial
 	url = https://github.com/AakashSudhakar/redditTutorial
+[submodule "dnworld"]
+	path = dnworld
+	url = https://github.com/AakashSudhakar/dnworld
+[submodule "element_generator"]
+	path = element_generator
+	url = https://github.com/AakashSudhakar/element_generator
