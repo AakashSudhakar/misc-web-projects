@@ -7,3 +7,6 @@
 [submodule "element_generator"]
 	path = element_generator
 	url = https://github.com/AakashSudhakar/element_generator
+[submodule "substantive"]
+	path = substantive
+	url = https://github.com/AakashSudhakar/substantive
